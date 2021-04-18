@@ -1,0 +1,8 @@
+README.md
+setup.py
+eggrp/__init__.py
+eggrp/eggfcn.py
+eggrp.egg-info/PKG-INFO
+eggrp.egg-info/SOURCES.txt
+eggrp.egg-info/dependency_links.txt
+eggrp.egg-info/top_level.txt
